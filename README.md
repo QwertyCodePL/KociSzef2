@@ -6,7 +6,7 @@
 <p align="center">Simple bot created with Py-Cord</p>
 
 <div align="center">
-    <a href="[https://img.shields.io/discord/965625327541944353?logo=discord](https://img.shields.io/discord/965625327541944353?logo=discord)" alt="Discord"/></a>
+    <a href="https://img.shields.io/discord/965625327541944353?logo=discord" alt="Discord"/></a>
     <br>
 </div>
 
