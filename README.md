@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[[https://meteorclient.com/icon.png](https://cdn.discordapp.com/attachments/1149407207100792852/1156303391098667158/ks2-logo.png?ex=65147af3&is=65132973&hm=7af9d82a22e93a8ad5c3715a6cab9ac3b31cd18262026dc7fb8d3bb86844d965&)](https://cdn.discordapp.com/attachments/1149407207100792852/1156303391098667158/ks2-logo.png?ex=65147af3&is=65132973&hm=7af9d82a22e93a8ad5c3715a6cab9ac3b31cd18262026dc7fb8d3bb86844d965&)" alt="ks2-logo" width="15%"/>
+<img src="https://cdn.discordapp.com/attachments/1149407207100792852/1156303391098667158/ks2-logo.png?ex=65147af3&is=65132973&hm=7af9d82a22e93a8ad5c3715a6cab9ac3b31cd18262026dc7fb8d3bb86844d965&" alt="ks2-logo" width="15%"/>
 </p>
 
 <h1 align="center">Koci Szef 2</h1>
