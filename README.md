@@ -14,7 +14,7 @@
 
 ## Invite
 
-🔗 [Add bot](https://discord.com/oauth2/authorize?client_id=1149390442543198288&permissions=8&scope=bot}
+🔗 [Add bot](https://discord.com/oauth2/authorize?client_id=1149390442543198288&permissions=8&scope=bot)
 
 ## How it works
 Koci Szef 2 is a simple bot writen in [python](https://pl.wikipedia.org/wiki/Python) with py-cord
